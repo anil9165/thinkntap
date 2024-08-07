@@ -15,14 +15,3 @@ Flutter Developer Assignment with GetX
  messages).
  4. State Management:- Use GetX for state management.- Ensure that the app handles state changes efficiently.- Implement GetX Controllers and Bindings for managing state and dependencies.
  5. Advanced Features:- Implement search functionality to filter tasks.- Implement pagination for the task list.- Implement sorting functionality (e.g., by date, priority).
- 6. Code Quality:- Follow best coding practices and clean code principles.- Write modular, reusable, and maintainable code.- Provide comments and documentation where necessary.
-7. Bonus Points:- Implement unit and widget tests for key functionalities.- Use animations to enhance the user experience.- Implement offline support using local storage (e.g., SQLite, Hive).- Implement push notifications for task reminders.
- Submission Guidelines:
- 1. Source Code:- Submit the complete source code in a GitHub repository.- Provide a README.md file with instructions on how to build and run the app.
- 2. Demo:- Record a short video (3-5 minutes) demonstrating the app's features and functionality.- Upload the video to a platform of your choice (e.g., YouTube, Google Drive) and include
- the link in the README.md file.
- 3. Deadline:- The assignment must be completed and submitted within 7 days.
- Evaluation Criteria:
- 1. Functionality:- Completeness and correctness of the implemented features.
- 2. UI/UX Design:- Visual appeal and user-friendliness of the interface.- Responsiveness and usability across different devices and screen sizes.
- 4. State Management:- Efficient handling of state changes using GetX.- Appropriate use of GetX Controllers and Bindings.
